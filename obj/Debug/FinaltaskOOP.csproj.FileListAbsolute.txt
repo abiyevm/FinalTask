@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\FinaltaskOOP\FinaltaskOOP\bin\Debug\FinaltaskOOP.exe.config
+C:\Users\User\source\repos\FinaltaskOOP\FinaltaskOOP\bin\Debug\FinaltaskOOP.exe
+C:\Users\User\source\repos\FinaltaskOOP\FinaltaskOOP\bin\Debug\FinaltaskOOP.pdb
+C:\Users\User\source\repos\FinaltaskOOP\FinaltaskOOP\obj\Debug\FinaltaskOOP.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FinaltaskOOP\FinaltaskOOP\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\FinaltaskOOP\FinaltaskOOP\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\FinaltaskOOP\FinaltaskOOP\obj\Debug\App.g.cs
+C:\Users\User\source\repos\FinaltaskOOP\FinaltaskOOP\obj\Debug\FinaltaskOOP_MarkupCompile.cache
+C:\Users\User\source\repos\FinaltaskOOP\FinaltaskOOP\obj\Debug\FinaltaskOOP.g.resources
+C:\Users\User\source\repos\FinaltaskOOP\FinaltaskOOP\obj\Debug\FinaltaskOOP.Properties.Resources.resources
+C:\Users\User\source\repos\FinaltaskOOP\FinaltaskOOP\obj\Debug\FinaltaskOOP.csproj.GenerateResource.cache
+C:\Users\User\source\repos\FinaltaskOOP\FinaltaskOOP\obj\Debug\FinaltaskOOP.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FinaltaskOOP\FinaltaskOOP\obj\Debug\FinaltaskOOP.exe
+C:\Users\User\source\repos\FinaltaskOOP\FinaltaskOOP\obj\Debug\FinaltaskOOP.pdb

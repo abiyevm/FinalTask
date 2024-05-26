@@ -1,0 +1,22 @@
+﻿<Window x:Class="PasswordBruteForce.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Password Brute Force" Height="350" Width="525">
+    <Grid>
+        <StackPanel Margin="10">
+            <TextBox Name="PasswordTextBox" Margin="0,0,0,10">
+                <TextBox.Text>
+                    <Binding Path="Password" UpdateSourceTrigger="PropertyChanged">
+                        <Binding.FallbackValue>Enter Password</Binding.FallbackValue>
+                    </Binding>
+                </TextBox.Text>
+            </TextBox>
+            <Button Name="EncryptButton" Content="Encrypt and Save Password" Click="EncryptButton_Click" Margin="0,0,0,10"/>
+            <TextBox Name="ResultTextBox" IsReadOnly="True" Margin="0,0,0,10"/>
+            <Button Name="BruteForceButton" Content="Start Brute Force Attack" Click="BruteForceButton_Click" Margin="0,0,0,10"/>
+            <TextBlock Name="ElapsedTimeTextBlock" Margin="0,10,0,0"/>
+            <Label Content="Max Threads:"/>
+            <TextBox Name="MaxThreadsTextBox" Text="4"/>
+        </StackPanel>
+    </Grid>
+</Window>
